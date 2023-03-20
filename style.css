@@ -106,6 +106,10 @@ body{
     opacity: 0;
     animation: zoomIn 1s ease forwards, floatImage 4s ease-in-out infinite;
     animation-delay: 2s, 3s;
+    border: 2px solid #0ef;
+    border-radius: 25px;
+    width: 350px;
+    box-shadow: 0 0 40px #0ef;
  }
 
 
